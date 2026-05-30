@@ -9,6 +9,10 @@
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
+	"features": {
+    	"ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {}
+    },
+
 	// Configure tool-specific properties.
 	"customizations": {
 		// Configure properties specific to VS Code.
